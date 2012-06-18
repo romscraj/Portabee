@@ -1,0 +1,26 @@
+The Portabee is the first conveniently portable 3D printer. It is easily collapsible in a matter of seconds and fit into a laptop bag
+
+The Portabee can be purchased as a complete kit with everything you need from our web store:
+http://romscraj.com/carttoo/index.php?route=product/product&product_id=122
+
+- Qty required for each RP part can be found in the 'Portabee-RP-Parts-BOM' PDF file.
+
+- Assembly Instructions* (which also contains the non-RP parts BOM) can be found in the downloads section:
+https://github.com/romscraj/Portabee/downloads
+
+* Assembly instructions are under construction, 80% complete draft available for download as at 18 Jun 2012
+
+Important notes if you are planning to build your own Portabee:
+- Most dimensions of holes and bearing holders are larger than actual. We use skeinforge with a slightly increased flow rate to give stronger parts (we enter a filament diameter value of 5-6% less than actual, or you can tweak packing density ratio as well to get the same result). We suggest printing out one of the parts, for example the 'x-carriage' part to check for fit (especially if you use a different slicing software, eg. Slic3r which has some hole compensation code in more recent versions which may give different results). Alternatively, the affected models may be modified - SketchUp .skp design files can be found in the 'SKP-files' folder.
+
+- There are two versions of the 'x-carriage' and 'y-end' parts - one for T2.5 and one for 2GT (GT2) belts. Select the correct model to print based on your requirement/preference. Other belt types have not been tested. As a guideline, selection for belt pulleys should be as close to the idler bearing OD where possible (624 idler = 13mm OD without belt), though design changes can be made to accomodate otherwise.
+
+- If you are not using the printbed (heated bed), refer to the file 'printbed-simple.png' for the dimension drawing for the build plate that you can build on your own. Plate dimensions: 222mm x 130mm. This plate can be made out of MDF, acrylic, aluminium, rigid glass fibre board, or any other suitable stiff material. Note that build plate needs to be as flat as possible for best results - if you are planning to use plywood, take note that some types may not be perfectly flat. Stiffness is important - choose a suitable thickness for the material of your choice, up to a recommended max of 5mm (thicker is possible, but the plate mounting bolts may need to be longer to accomodate it). Remember to cover your build surface with blue painter's tape (or masking tape) before printing.
+
+- If you need any specific part that is difficult to source (and you do not wish to modify the design to accomodate alternatives), our romscraj store has portabee specific parts that you can purchase (if you don't see the part that you need, drop us an email at romscraj@orangeknob.com):
+http://romscraj.com/carttoo/index.php?route=common/home
+
+You can also refer to the RepRap Buyers' Guide which is a good compilation of sources from which you can consider to obtain your parts from:
+http://reprap.org/wiki/RepRap_Buyers'_Guide
+
+- Happy building!
