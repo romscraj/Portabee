@@ -5,10 +5,8 @@ http://romscraj.com/carttoo/index.php?route=product/product&product_id=122
 
 - Qty required for each RP part can be found in the 'Portabee-RP-Parts-BOM' PDF file.
 
-- Assembly Instructions* (which also contains the non-RP parts BOM) can be found in the downloads section:
+- Assembly Instructions (which also contains the non-RP parts BOM) can be found in the downloads section:
 https://github.com/romscraj/Portabee/downloads
-
-* Assembly instructions are under construction, 80% complete draft available for download as at 18 Jun 2012
 
 - The Romscraj Extruder is the default extruder for the Portabee. To build one, refer here:
 https://github.com/romscraj/romscraj-extruder
